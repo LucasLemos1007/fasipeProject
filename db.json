@@ -1,0 +1,40 @@
+{
+  "materiais": [
+    {
+      "id": 1,
+      "nome": "Papel",
+      "descricao": "O papel, em geral, demora cerca de três meses para se decompor. Por ser de origem orgânica,é mais fácil de ser digerido pelos fungos e bactérias (responsáveis pela decomposição nanatureza). Embalagens de papel demoram até cinco meses para serem absorvidas totalmente.",
+      "duracao": "3 a 5 mesês"
+    },
+    {
+      "id": 2,
+      "nome": "Metais",
+      "descricao": "Metais não se desintegram com facilidade. Uma lata de aço se decompõe em cerca de dez anos, quando se transforma em óxido de ferro. Já a lata de alumínio (usada na maioria dos refrigerantes) pode durar até 500 anos.",
+      "duracao": "10 a 500 anos"
+    },
+    {
+      "id": 3,
+      "nome": "Plástico",
+      "descricao": "Por der um material novo na natureza (surgiu por volta de 1860), as bactérias e fungos ainda não desenvolveram enzimas para destruir o plástico mais facilmente.Alguns tipos, como os de garrafas de refrigerante, levam cerca de 200 anos para desaparecer. Já embalagens e equipamentos desse material podem demorar até 450 anos.",
+      "duracao": "200 a 450 anos"
+    },
+    {
+      "id": 4,
+      "nome": "Vidro",
+      "descricao": "Composto de areia, sódio e cal (substâncias que os microrganismos da decomposição não conseguem digerir), o vidro é muito resistente.Já foram encontrados objetos de vidro do ano 2.000 antes de Cristo! Um recipiente demoraria aproximadamente 4 mil anos para desaparecer pela ação da erosão e de agentes químicos.",
+      "duracao": "4 mil anos"
+    },
+    {
+      "id": 5,
+      "nome": "Eletrônicos",
+      "descricao": "Equipamentos eletrônicos, como celulares e computadores, contêm substâncias tóxicas, que podem contaminar o ambiente. Por isso, é importante descartá-los em locais apropriados, como empresas e postos de coleta",
+      "duracao": "10 a 500 anos"
+    },
+    {
+      "id": 6,
+      "nome": "MIBR",
+      "descricao": "Muito tempo sem ganhar nada",
+      "duracao": "Mais de 2 anos"
+    }
+  ]
+}
